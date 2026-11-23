@@ -1,9 +1,9 @@
-# lib-library
+# mytop-library
 
 Shared code for droidtop, Pythia, Enginehost and droidtop-agent: the library's record model, ids and the store-id grammar, the same-game and cross-device keys, merge rules, the change log, and the library index.
 
-One of the shared libraries of Droidtop/tracker#867, in the split the owner approved on 2026-11-21
-(Droidtop/tracker#960, step 1.0). Where its code comes from: split out of lib-games.
+One of the shared libraries of mytop-project/tracker#867, in the split the owner approved on 2026-11-21
+(mytop-project/tracker#960, step 1.0). Where its code comes from: split out of mytop-games.
 
 **Shared code with versions, not releases** (owner, 2026-11-21: "these libraries aren't standalone… They're shared
 code", then "we still make pinned versions, we just don't make releases. We can build them for testing and stuff, we
